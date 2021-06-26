@@ -12,4 +12,8 @@ Climate change is projected to increase the frequency and intensity of some extr
 The goal of this project is to analyze the weather data to predict public transport service disruption in Dubai? How can we plan for less disruption in the wake of severe weather conditions and leverage the emergency management plan as well as providing uninterrupted services and products to citizens?
  
 
-## Project 2 :- 
+## [Project 2 :- Preditctin Loan Approval](https://github.com/Opiano1/Mortgage-Approval-Loan-Prediction)
+
++  Goal 
+
+The goal is to predict whether a mortgage application was accepted (meaning the loan was originated) or denied according to the given dataset, which is adapted from the Federal Financial Institutions Examination Council's (FFIEC).
