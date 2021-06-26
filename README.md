@@ -2,7 +2,7 @@
 
 # Welcome to your Personal Portfolio
 
-This page a
+This page host all my personal Data Science projects.
 
 ## [Project 1 :- Predicting weather disruption of public transport – provided by Ernst and Young](https://fabiyiopeyemi94.medium.com/datathon2020-predicting-weather-disruption-of-public-transport-86373a19e6bc)
 
@@ -20,3 +20,8 @@ The goal of this project is to analyze the weather data to predict public transp
 +  Goal 
 
 The goal is to predict whether a mortgage application was accepted (meaning the loan was originated) or denied according to the given dataset, which is adapted from the Federal Financial Institutions Examination Council's (FFIEC).
+
+
+You can reach me 
+
++ [![](https://github.com/Opiano1/Opeyemi_portfolio/blob/main/images/linkedin.png)](https://www.linkedin.com/in/opeyemifabiyi/)
