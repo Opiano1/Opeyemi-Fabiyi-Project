@@ -1,7 +1,7 @@
 # Opeyemi_portfolio
 Sample template of my portfolio
 
-## Project 1 :- Predicting weather disruption of public transport – provided by Ernst and Young
+## [Project 1 :- Predicting weather disruption of public transport – provided by Ernst and Young](https://github.com/Opiano1/Data-Scientist-Nanodegree-Projects/tree/master/Capstone)
 
 + Business Case
 
