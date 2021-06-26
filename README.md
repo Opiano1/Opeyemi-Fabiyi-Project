@@ -1,4 +1,4 @@
-![](https://github.com/Opiano1/Opeyemi_portfolio/blob/main/images/Image%20from%20iOS%20(2).jpg)
+![](/images/Image%20from%20iOS%20(2).jpg)
 
 # Welcome to your Personal Portfolio
 
@@ -24,4 +24,4 @@ The goal is to predict whether a mortgage application was accepted (meaning the 
 
 You can reach me 
 
-+ [![](https://github.com/Opiano1/Opeyemi_portfolio/blob/main/images/linkedin.png)](https://www.linkedin.com/in/opeyemifabiyi/)
++ [![](/images/linkedin.png)](https://www.linkedin.com/in/opeyemifabiyi/)
