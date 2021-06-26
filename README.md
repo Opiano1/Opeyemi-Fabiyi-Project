@@ -24,4 +24,5 @@ The goal is to predict whether a mortgage application was accepted (meaning the 
 
 You can reach me 
 
-+ [![](/images/linkedin.png)](https://www.linkedin.com/in/opeyemifabiyi/)
++ fabiyiopeyemi94@gmail
+
