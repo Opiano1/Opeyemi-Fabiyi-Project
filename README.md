@@ -1,7 +1,6 @@
 # Welcome to my Personal Portfolio 
 Opeyemi Fabiyi
 
-![](/images/Image%20from%20iOS%20(2).jpg)
 
 This page host all my personal Data Science projects.
 
